@@ -1,0 +1,14 @@
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\Book\Chapter_28_Structs\28_RoomCoordinatesApp\28_RoomCoordinates\bin\Debug\net6.0\28_RoomCoordinates.exe
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\Book\Chapter_28_Structs\28_RoomCoordinatesApp\28_RoomCoordinates\bin\Debug\net6.0\28_RoomCoordinates.deps.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\Book\Chapter_28_Structs\28_RoomCoordinatesApp\28_RoomCoordinates\bin\Debug\net6.0\28_RoomCoordinates.runtimeconfig.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\Book\Chapter_28_Structs\28_RoomCoordinatesApp\28_RoomCoordinates\bin\Debug\net6.0\28_RoomCoordinates.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\Book\Chapter_28_Structs\28_RoomCoordinatesApp\28_RoomCoordinates\bin\Debug\net6.0\28_RoomCoordinates.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\Book\Chapter_28_Structs\28_RoomCoordinatesApp\28_RoomCoordinates\obj\Debug\net6.0\28_RoomCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\Book\Chapter_28_Structs\28_RoomCoordinatesApp\28_RoomCoordinates\obj\Debug\net6.0\28_RoomCoordinates.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\Book\Chapter_28_Structs\28_RoomCoordinatesApp\28_RoomCoordinates\obj\Debug\net6.0\28_RoomCoordinates.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\Book\Chapter_28_Structs\28_RoomCoordinatesApp\28_RoomCoordinates\obj\Debug\net6.0\28_RoomCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\Book\Chapter_28_Structs\28_RoomCoordinatesApp\28_RoomCoordinates\obj\Debug\net6.0\28_RoomCoordinates.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\Book\Chapter_28_Structs\28_RoomCoordinatesApp\28_RoomCoordinates\obj\Debug\net6.0\refint\28_RoomCoordinates.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\Book\Chapter_28_Structs\28_RoomCoordinatesApp\28_RoomCoordinates\obj\Debug\net6.0\28_RoomCoordinates.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\Book\Chapter_28_Structs\28_RoomCoordinatesApp\28_RoomCoordinates\obj\Debug\net6.0\28_RoomCoordinates.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\Book\Chapter_28_Structs\28_RoomCoordinatesApp\28_RoomCoordinates\obj\Debug\net6.0\ref\28_RoomCoordinates.dll
